@@ -1,4 +1,6 @@
-# claude_src_personal
+# Claude Source Code for Personal Learning
+@qingkejane
+
 claude v2.1.88 source code
 
 ## ⚠️Disclaimer
